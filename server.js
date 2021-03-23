@@ -44,8 +44,7 @@ const connectionString = `mongodb+srv://${process.env.DB_USERNAME}:${process.env
                 .then(results =>{
                     res.render('index.ejs', {square: results});
                 })
-        })
-        
+        }) 
     }) ; 
 
 app.listen(port, ()=>{console.log(`Listening on Server localhost:${port}`)})
