@@ -15,6 +15,6 @@ This is a basic progran to understand the functioning of the NodeJS Application 
  
  
  >**Prerequiste:** 
-  You must know to setup the Cluster, Database and collection in the MongDB
+  You must know to setup the Cluster, Database and Collections in MongoDB
   
   Happy Coding !
